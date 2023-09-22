@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=IC6 NewDesignator=*
+Added Component: Designator=J2(PRT00119)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PRT-00119"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/prt-00119/sparkfun-electronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sparkfun.com/datasheets/Prototyping/Barrel-Connector-PJ-202A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PRT-00119"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "474-PRT-00119"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SparkFun/PRT-00119?qs=WyAARYrbSnbnQpS9xf%252Bx5A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=J2-2
+Added Member To Class: ClassName=Flight_Controller_Schematic Member=Component J2 PRT-00119

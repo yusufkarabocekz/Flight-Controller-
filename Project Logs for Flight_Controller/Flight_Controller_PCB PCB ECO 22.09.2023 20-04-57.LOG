@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VCC Pin=C1-1
+Removed Pin From Net: NetName=VSS Pin=C1-2
+Removed Pin From Net: NetName=VBAT Pin=C2-1
+Removed Pin From Net: NetName=VSS Pin=C2-2
+Change Component Designator: OldDesignator=IC6 NewDesignator=*
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPPM168X90N"; UniqueID = "\RXPNMRDJ" ("\RXPNMRDJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TR8M106M010C2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tr8m106m010c2000/vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/40114/tr8.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TR8M106M010C2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "74-TR8M106M010C2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/TR8M106M010C2000/?qs=A6MsUmktA0wQ2FaijS70cA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPPM168X90N"; UniqueID = "\NAFQNNZA" ("\NAFQNNZA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TR8M106M010C2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tr8m106m010c2000/vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/40114/tr8.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TR8M106M010C2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "74-TR8M106M010C2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/TR8M106M010C2000/?qs=A6MsUmktA0wQ2FaijS70cA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VSS Pin=C2-1
+Added Pin To Net: NetName=VBAT Pin=C2-2
+Added Member To Class: ClassName=Flight_Controller_Schematic Member=Component * BMP280
