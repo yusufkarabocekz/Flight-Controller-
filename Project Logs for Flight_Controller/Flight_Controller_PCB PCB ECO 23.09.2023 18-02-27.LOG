@@ -1,0 +1,159 @@
+Added Component: Designator=J3(HDRRA4W67P0X254_1X4_1016X254X241P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10129379.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.41mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol Communications Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "10129379-904002BLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "649-1012937990402BLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/10129379-904002BLF?qs=0lQeLiL1qybYsOE3kPCMFA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J4(HDRV3W66P0X254_1X3_737X250X890P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/lcsc/1912111437_PINREX-210-91-03GB01_C390679.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "PINREX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "210-91-03GB01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(HDRV3W66P0X254_1X3_737X250X890P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/lcsc/1912111437_PINREX-210-91-03GB01_C390679.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "PINREX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "210-91-03GB01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(0473461001)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0473461001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0473461001/molex?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/0473461001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0473461001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/0473461001?qs=2bnkQPT%252BPafTZgGVt%2FOGfA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J7(HDRV3W66P0X254_1X3_737X250X890P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/lcsc/1912111437_PINREX-210-91-03GB01_C390679.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "PINREX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "210-91-03GB01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(HDRV3W66P0X254_1X3_737X250X890P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/lcsc/1912111437_PINREX-210-91-03GB01_C390679.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "PINREX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "210-91-03GB01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(HDRV3W66P0X254_1X3_737X250X890P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/lcsc/1912111437_PINREX-210-91-03GB01_C390679.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "PINREX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "210-91-03GB01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(HDRV3W66P0X254_1X3_737X250X890P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/lcsc/1912111437_PINREX-210-91-03GB01_C390679.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "PINREX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "210-91-03GB01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(150040BS73220)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/150040BS73220.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150040BS73220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150040BS73220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150040BS73220?qs=u16ybLDytRa6gY6jG0El6g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/erj-3ekf1001v/panasonic?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF1001V?qs=H7k1u0Mp9JTM8yQxOuvoDg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/erj-3ekf1001v/panasonic?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF1001V?qs=H7k1u0Mp9JTM8yQxOuvoDg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/erj-3ekf1001v/panasonic?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-3EKF1001V?qs=H7k1u0Mp9JTM8yQxOuvoDg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS Pin=J3-1
+Added Pin To Net: NetName=VBAT Pin=J3-4
+Added Pin To Net: NetName=VSS Pin=J4-3
+Added Pin To Net: NetName=VSS Pin=J5-3
+Added Pin To Net: NetName=VSS Pin=J6-5
+Added Pin To Net: NetName=VSS Pin=J7-3
+Added Pin To Net: NetName=VSS Pin=J8-3
+Added Pin To Net: NetName=VSS Pin=J9-3
+Added Pin To Net: NetName=VSS Pin=J10-3
+Added Pin To Net: NetName=VSS Pin=LED2-1
+Added Pin To Net: NetName=VBAT Pin=LED2-2
+Added Pin To Net: NetName=VDDIO Pin=R8-2
+Added Pin To Net: NetName=DCLK Pin=J3-2
+Added Pin To Net: NetName=DCLK Pin=IC4-76
+Added Net: Name=DCLK
+Added Pin To Net: NetName=DIO Pin=J3-3
+Added Pin To Net: NetName=DIO Pin=IC4-72
+Added Net: Name=DIO
+Added Pin To Net: NetName=MOTOR1 Pin=J4-1
+Added Pin To Net: NetName=MOTOR1 Pin=IC4-67
+Added Net: Name=MOTOR1
+Added Pin To Net: NetName=MOTOR2 Pin=J5-1
+Added Pin To Net: NetName=MOTOR2 Pin=IC4-89
+Added Net: Name=MOTOR2
+Added Pin To Net: NetName=MOTOR3 Pin=J7-1
+Added Pin To Net: NetName=MOTOR3 Pin=IC4-35
+Added Net: Name=MOTOR3
+Added Pin To Net: NetName=MOTOR4 Pin=J8-1
+Added Pin To Net: NetName=MOTOR4 Pin=IC4-62
+Added Net: Name=MOTOR4
+Added Pin To Net: NetName=MOTOR5 Pin=J9-1
+Added Pin To Net: NetName=MOTOR5 Pin=IC4-23
+Added Net: Name=MOTOR5
+Added Pin To Net: NetName=MOTOR6 Pin=J10-1
+Added Pin To Net: NetName=MOTOR6 Pin=IC4-44
+Added Net: Name=MOTOR6
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=R8-1
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=R9-1
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=R10-1
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=USB_D+ Pin=R10-2
+Added Pin To Net: NetName=USB_D+ Pin=IC4-71
+Added Net: Name=USB_D+
+Added Pin To Net: NetName=USB_D- Pin=R9-2
+Added Pin To Net: NetName=USB_D- Pin=IC4-70
+Added Net: Name=USB_D-

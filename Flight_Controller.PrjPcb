@@ -116,6 +116,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSJFQDBW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Flight_Controller\Design Rule Check - Flight_Controller_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
